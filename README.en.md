@@ -22,14 +22,14 @@ AI is used throughout the development process, including specification research,
 
 ## 📦 Projects
 
-### Mock-webusb
+### [Mock-webusb](https://github.com/steck0714/Mock-webusb)
 
 An extended compatibility API based on WebUSB.
 
 #### Implementations
 
-- Pyside6-webusb
-- fox-webusb
+- [Pyside6-webusb](https://github.com/steck0714/Pyside6-webusb)
+- [fox-webusb](https://github.com/steck0714/fox-webusb)
 
 ## 📜 License
 
