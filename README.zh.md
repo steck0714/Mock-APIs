@@ -22,14 +22,14 @@ AI 不仅用于代码生成，也会用于规范研究、实现、测试、发�
 
 ## 📦 项目
 
-### Mock-webusb
+### [Mock-webusb](https://github.com/steck0714/Mock-webusb)
 
 基于 WebUSB 的扩展型兼容性 API。
 
 #### 实现
 
-- Pyside6-webusb
-- fox-webusb
+- [Pyside6-webusb](https://github.com/steck0714/Pyside6-webusb)
+- [fox-webusb](https://github.com/steck0714/fox-webusb)
 
 ## 📜 许可证
 
