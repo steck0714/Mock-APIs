@@ -22,14 +22,14 @@ AIはコード生成だけではなく、仕様の調査、実装、テスト、
 
 ## 📦 プロジェクト
 
-### Mock-webusb
+### [Mock-webusb](https://github.com/steck0714/Mock-webusb)
 
 WebUSBをベースとした拡張型互換性APIです。
 
 #### 実装
 
-- Pyside6-webusb
-- fox-webusb
+- [Pyside6-webusb](https://github.com/steck0714/Pyside6-webusb)
+- [fox-webusb](https://github.com/steck0714/fox-webusb)
 
 ## 📜 ライセンス
 
