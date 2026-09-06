@@ -31,7 +31,7 @@ WebUSBをベースとした拡張型互換性APIです。
 - [Pyside6-webusb](https://github.com/steck0714/Pyside6-webusb)
 - [fox-webusb](https://github.com/steck0714/fox-webusb)
 
-### Mock-webbluetooth
+### [Mock-webbluetooth](https://github.com/steck0714/mock-webbluetooth)
 
 Web Bluetooth APIをベースとした拡張型互換性APIです。
 
