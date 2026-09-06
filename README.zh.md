@@ -26,6 +26,19 @@ AI 不仅用于代码生成，也会用于规范研究、实现、测试、发�
 
 基于 WebUSB 的扩展型兼容性 API。
 
+# Mock-WebBluetooth
+
+这是一个基于 Web Bluetooth API 的扩展型兼容性 API。
+
+## 链接
+
+- [Mock-WebBluetooth](https://github.com/steck0714/mock-webbluetooth)
+- [pyside6-webbluetooth](https://github.com/steck0714/pyside6-webbluetooth)
+
+## 实现
+
+- [pyside6-webbluetooth](https://github.com/steck0714/pyside6-webbluetooth)
+
 #### 实现
 
 - [Pyside6-webusb](https://github.com/steck0714/Pyside6-webusb)
