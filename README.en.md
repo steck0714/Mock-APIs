@@ -26,6 +26,19 @@ AI is used throughout the development process, including specification research,
 
 An extended compatibility API based on WebUSB.
 
+# Mock-WebBluetooth
+
+An extended compatibility API based on the Web Bluetooth API.
+
+## Links
+
+- [Mock-WebBluetooth](https://github.com/steck0714/mock-webbluetooth)
+- [pyside6-webbluetooth](https://github.com/steck0714/pyside6-webbluetooth)
+
+## Implementation
+
+- [pyside6-webbluetooth](https://github.com/steck0714/pyside6-webbluetooth)
+
 #### Implementations
 
 - [Pyside6-webusb](https://github.com/steck0714/Pyside6-webusb)
